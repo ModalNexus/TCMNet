@@ -1,8 +1,0 @@
-# Override the root with --data-root or TCMNET_DATA_ROOT.
-DATASET:
-  TRAINVAL_DATA_SOURCE: Multi-Modality
-  TRAIN_DATA_ROOT: null
-  IMAGE_SIZE: 512
-  PAD_IMAGES: true
-  DIVISIBILITY: 8
-  AUGMENTATION_TYPE: null
